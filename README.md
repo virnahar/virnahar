@@ -1,4 +1,8 @@
-# Hi, I'm Virendra Kumar (💻💖☕)
+# Hi, I'm  [![Virendra Kumar!](https://github.com/virnahar/virnahar/blob/ab37ed6b834a66a346430816c454f55d565b8626/Virendra_kumar.png)](https://virnahar.github.io "Virendra Kumar") <p align="center">💻💖☕</p>
+
+
+
+
 <!-- markdownlint-disable MD033 -->
 <a href="[https://app.daily.dev/virnahar](https://app.daily.dev/virnahar)"><img src="https://github.com/virnahar/virnahar/blob/main/devcard.svg" width="250" align="right" alt="Virendra Kumar's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
