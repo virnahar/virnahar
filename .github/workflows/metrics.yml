@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_timezone: Asia/Kolkata
+          config_timezone: Asia/Calcutta
           config_twemoji: yes
 
           # Introduction plugin
@@ -49,10 +49,15 @@ jobs:
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
 
-
+          plugin_screenshot: yes
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: More About Me
+          plugin_screenshot_url: https://virnahar.github.io
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          
           # People plugin
           plugin_people: yes
           plugin_people_limit: 150
