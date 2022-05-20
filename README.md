@@ -1,4 +1,4 @@
-# Hi, I'm  [![Virendra Kumar!](https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/virendra_kumar.png)](https://virnahar.github.io "Virendra Kumar") <p align="center">💻💖☕</p>
+# Hi, I'm [![Virendra Kumar!](https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/virendra_kumar.png)](https://virnahar.github.io "Virendra Kumar") <p align="center">💻💖☕</p>
 
 
 
@@ -13,12 +13,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/virnahar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/virnahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/virnahar)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
-DevOps Architect, Cloud Enthusiast, Pictographer, and technopreneur from the INDIA. 💻💖☕
-
+<img src="https://github.com/virnahar/virnahar/blob/dc8bdf1f1358f6ce3a97c068f8898dd532434bd7/daftpunktocat-guy.gif" width="80" align="right" alt="I Am Vir"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
+DevOps Architect, Cloud Enthusiast, Pictographer, and technopreneur from the INDIA. 
 
 
 - ☕ In the world of Coffee lovers I am TEA lover != turning it into code !
