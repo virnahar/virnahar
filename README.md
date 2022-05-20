@@ -6,9 +6,9 @@
 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/virnahar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/virnahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/virnahar)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/virnahar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/virnahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/virnahar)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=DevOps+Architect;Automation-Is+Fun;Cloud+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 DevOps Architect, Cloud Enthusiast, Pictographer, and technopreneur from the INDIA. 💻💖☕
 
