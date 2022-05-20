@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 -->
 <a href="[https://app.daily.dev/virnahar](https://app.daily.dev/virnahar)"><img src="https://github.com/virnahar/virnahar/blob/main/devcard.svg" width="250" align="right" alt="Virendra Kumar's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
-📢 Nominate ([@virnahar](https://virnahar.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+📢 Nominate ([@virnahar](https://virnahar.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to Automation.
 
 
 
