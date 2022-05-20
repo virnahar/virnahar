@@ -30,8 +30,9 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and technopreneur from the IND
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virnahar&count_private=true&show_icons=true&theme=tokyonight)]
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=virnahar&layout=compact)]
+![](https://github-readme-stats.vercel.app/api?username=virnahar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=virnahar&theme=radical&hide_border=false)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=virnahar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
 
