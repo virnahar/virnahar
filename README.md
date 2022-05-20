@@ -21,7 +21,7 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and technopreneur from the IND
 
 
 
-- ☕ In the world of Coffee lovers I am TEA lover, turning it into code !
+- ☕ In the world of Coffee lovers I am TEA lover != turning it into code !
 - 🎯 Wasting my time to save other people's time.
 - 💡 [Learn more about me](https://virnahar.github.io).
 
