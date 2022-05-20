@@ -52,7 +52,7 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_selector: body
           plugin_screenshot_title: More About Me
-          plugin_screenshot_url: https://virnahar.github.io
+          plugin_screenshot_url: https://virnahar.github.io/index.html
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
