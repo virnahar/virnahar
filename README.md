@@ -46,7 +46,7 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the IND
 
 ---
 
-💻💖☕ by [Virendra Kumar](https://virnahar.github.io) 🙏
+👉🏻💻💖📷☕ by [Virendra Kumar](https://virnahar.github.io) 🙏
 
 [![](https://visitcount.itsvg.in/api?id=virnahar&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
