@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            229 Commits
+                            192 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.01603331068054" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="311.01603331068054" y="0" width="255.5529533123629" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="566.5689866230433" y="0" width="242.71258027170077" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="809.2815668947442" y="0" width="51.39814984936258" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="860.6797167441067" y="0" width="33.114110331667945" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="893.7938270757746" y="0" width="11.999282784390378" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="905.793109860165" y="0" width="8.17873721352881" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="913.9718470736939" y="0" width="6.028152926306096" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.4206933238762" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="311.4206933238762" y="0" width="255.88545083784024" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="567.3061441617164" y="0" width="241.83136802908058" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="809.137512190797" y="0" width="51.46502349499069" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="860.6025356857878" y="0" width="33.157194786771875" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="893.7597304725596" y="0" width="12.014894937494459" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="905.774625410054" y="0" width="8.189378491000975" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="913.9640039010551" y="0" width="6.035996098944942" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -252,7 +252,7 @@
                             </div>
                             <small>
                                 <div>152 kB</div>
-                                <div>33.81%</div>
+                                <div>33.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -278,7 +278,7 @@
                             </div>
                             <small>
                                 <div>125 kB</div>
-                                <div>27.78%</div>
+                                <div>27.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -290,7 +290,7 @@
                             </div>
                             <small>
                                 <div>5.89 kB</div>
-                                <div>1.3%</div>
+                                <div>1.31%</div>
                             </small>
                         </div>
                     </section>
@@ -303,8 +303,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>119 kB</div>
-                                <div>26.38%</div>
+                                <div>118 kB</div>
+                                <div>26.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2393,12 +2393,12 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBgIECP/EACoQAAEDAgUCBQUAAAAAAAAAAAECAxEABAUSITFBBhMUIjJxoVFhkdHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAdEQABBAIDAAAAAAAAAAAAAAADAAECBBETEiEx/9oADAMBAAIRAxEAPwDm5pkuHbWjqOnnQ2C4Sk6kwmQI4qTpC0RdYo2FqQjIM4nk8fJpo4dh9uouDuA5RBUCZHsNxt/ap1g7FHvWtLpO4rhL1irzpPbVORX1gxQ3JTS6qsm3LF2ChYbTnCwZ2+NqWiwM1LOPg+F0Uy7I5W7gl94O6Cj6CINMayx1stIJKIAiVGRBOoHGtKNKjNShxUb1gleHiC1XiV+1eep8Wa7K0tuytYII+559qpCnJNYKUVEyaNrwa3B0W7+R+qA5Hk6dXEw44Zf/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEB//EACgQAAEDAwIFBAMAAAAAAAAAAAEAAgMEERIFQRMUITFxBiNCkVFhof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBBQf/xAAcEQEAAgEFAAAAAAAAAAAAAAABABECAxIhMVH/2gAMAwEAAhEDEQA/AOqISt1l9JJUxcvnLGQWi9hgdyftNobWtP4oqKiNpMkbWPJJJNr/AAHa358rn9cNTU0wcgZto6w1BYcQxj8sRe5GBAN/tbEP6dlZPSRmMF/DaQ6Qncm9gNr9CfITCaileRNbmpITV5+YiYIHTMsbn2ZBkPIHbp28JtSgD3AZOLZMWlkRU0VPhg9gsQAbb72/X9W1SkZJ/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwUI/8QAJhAAAQMEAQQBBQAAAAAAAAAAAQIDBAAREjEhBRNBUWEiIzKB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEBAAMBAQEBAAAAAAAAAAAAAQADEQIhEjH/2gAMAwEAAhEDEQA/AOVvNaCulTExkOliyFp7iRkMyn3je9vm1Z43T70WZCkRzLfMVh1vPNyVIONyRbttIGVwMvBBvzQ9dJ+TRRVzYv05ERsWUKrouUQZThSPpUokfuhqsdiejHIXDU0gOOOpCyBZCDok+T8D+VQFEHg7qCdGpDdRhj4EYHZEJ/pEdoMoTLauC8jhR54B9+r71z4pfwWokpBUL7tUj+VqITIfyX990XUdLNCGRl9jYCgZ55P/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEB//EACgQAAEDAwIFBAMAAAAAAAAAAAEAAgMEERIFQRMUITFxBiNCkVFhof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBBQf/xAAcEQEAAgEFAAAAAAAAAAAAAAABABECAxIhMVH/2gAMAwEAAhEDEQA/AOqISt1l9JJUxcvnLGQWi9hgdyftNobWtP4oqKiNpMkbWPJJJNr/AAHa358rn9cNTU0wcgZto6w1BYcQxj8sRe5GBAN/tbEP6dlZPSRmMF/DaQ6Qncm9gNr9CfITCaileRNbmpITV5+YiYIHTMsbn2ZBkPIHbp28JtSgD3AZOLZMWlkRU0VPhg9gsQAbb72/X9W1SkZJ/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EAC4QAAIBAwIDBgUFAAAAAAAAAAECAwQFEQAhBxIxBhMiQWGBCBQjUZEzUoKhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/xAAfEQACAgIBBQAAAAAAAAAAAAAAAQIDESEEEiIxYcH/2gAMAwEAAhEDEQA/AHOpyInbfwnOeoGg97uUsUluipHFOJJx3srYGUG5G/32GnW6T2+ioZJ6144o0XnJbbA9dSJLnB2qvAhDkxRzsRHy4+ngEexGprG8aKlWUKKu2KyASAblfQ9CNYqyZGnYpURoP246aDUEsUlzkjoIxEIf1VXGMHBT84c6Oralqx3zL4m66XxXa495rYpPRn4+W5oLLRrBJkzVGWTPVUB/0jUf7J2+9SXqpmtq7xqTL4k3j/ltp0+JG51T19npDJiBY5JOUeZ9fx/Z0v8AB9B81fT54iT2JOdPXgNyzXj2voV4IK1dXdoWq+eSoKxkMzbtu+entj7aqXzMtL9Jl5SvljUZ4GzvFfriqHAaGMn2c6udcitPlgCeUaJi+tz2z//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgA/8QAMRAAAQMCAwUDDQAAAAAAAAAAAQIDBAARBRIhBhMxQZMHUYEUFRcyNFRVYXGCkdHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREjEEIv/aAAwDAQACEQMRAD8AqFvtVng383RD9yqYMK2/x6fBdlxsAiqjNKyqeJVlzWva/fVNo9U99W3sO4X9iVYYrEHY6pklaGkJAKARYrcUCOFtNDfSpWtouRMvquNKbCAzO1TEA4UnCoSCO5S6E9Kc/wCHxfyql/arCV4aYjocLrUtvepWU5ToopII+opcVa/Pxp0O4zKVOLkDCchWVFSEabJZDYYeWkpO8TbkdNR/cq0I3DhpVpDjdMVMsRYoT7HE6CP1RYZlCgbsztieMzccjWnvh1TKRkK7A2vw+VLL194b5fCtPy2IquMKJ0hQnkML3KN0xQVAvIlSLX8oMCf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgA/8QAMRAAAQMCAwUDDQAAAAAAAAAAAQIDBAARBRIhBhMxQZMHUYEUFRcyNFRVYXGCkdHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREjEEIv/aAAwDAQACEQMRAD8AqFvtVng383RD9yqYMK2/x6fBdlxsAiqjNKyqeJVlzWva/fVNo9U99W3sO4X9iVYYrEHY6pklaGkJAKARYrcUCOFtNDfSpWtouRMvquNKbCAzO1TEA4UnCoSCO5S6E9Kc/wCHxfyql/arCV4aYjocLrUtvepWU5ToopII+opcVa/Pxp0O4zKVOLkDCchWVFSEabJZDYYeWkpO8TbkdNR/cq0I3DhpVpDjdMVMsRYoT7HE6CP1RYZlCgbsztieMzccjWnvh1TKRkK7A2vw+VLL194b5fCtPy2IquMKJ0hQnkML3KN0xQVAvIlSLX8oMCf/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBgIECP/EACoQAAEDAgUCBQUAAAAAAAAAAAECAxEABAUSITFBBhMUIjJxoVFhkdHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAdEQABBAIDAAAAAAAAAAAAAAADAAECBBETEiEx/9oADAMBAAIRAxEAPwDm5pkuHbWjqOnnQ2C4Sk6kwmQI4qTpC0RdYo2FqQjIM4nk8fJpo4dh9uouDuA5RBUCZHsNxt/ap1g7FHvWtLpO4rhL1irzpPbVORX1gxQ3JTS6qsm3LF2ChYbTnCwZ2+NqWiwM1LOPg+F0Uy7I5W7gl94O6Cj6CINMayx1stIJKIAiVGRBOoHGtKNKjNShxUb1gleHiC1XiV+1eep8Wa7K0tuytYII+559qpCnJNYKUVEyaNrwa3B0W7+R+qA5Hk6dXEw44Zf/2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2411,6 +2411,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">virnahar/virnahar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ce43eb</div>
+                                        <div class="message">Delete index.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">virnahar/virnahar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#afd291d</div>
+                                        <div class="message">Create static.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2471,46 +2511,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">virnahar/virnahar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3591aeb</div>
-                                        <div class="message">Update index.html</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">virnahar/virnahar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fa7b0a2</div>
-                                        <div class="message">Create Readme-Docsify.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2534,7 +2534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2023, 13:07:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Aug 2023, 13:42:10 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
