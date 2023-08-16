@@ -1,10 +1,10 @@
-# Hi, I'm [![Virendra Kumar!](virendra_kumar.png)](https://virnahar.github.io "Virendra Kumar") <p align="center">👉🏻💻💖📷☕</p>
+# Hi, I'm [![Virendra Kumar!](https://virnahar.github.io/virnahar/virendra_kumar.png)](https://virnahar.github.io "Virendra Kumar") <p align="center">👉🏻💻💖📷☕</p>
 
 
 
 
 <!-- markdownlint-disable MD033 -->
-<a href="[https://app.daily.dev/virnahar](https://app.daily.dev/virnahar)"><img src="devcard.svg" width="250" align="right" alt="Virendra Kumar's Dev Card"/></a>
+<a href="[https://app.daily.dev/virnahar](https://app.daily.dev/virnahar)"><img src="https://virnahar.github.io/virnahar/devcard.svg" width="250" align="right" alt="Virendra Kumar's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 📢 Nominate ([@virnahar](https://virnahar.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to Automation.
 
@@ -14,7 +14,7 @@
 
 
 
-<a href="[https://virnahar.github.io](https://virnahar.github.io)"><img src="https://github.com/virnahar/virnahar/blob/dc8bdf1f1358f6ce3a97c068f8898dd532434bd7/daftpunktocat-guy.gif" width="50" align="right" alt="I Am Vir"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+<a href="[https://virnahar.github.io](https://virnahar.github.io)"><img src="https://virnahar.github.io/virnahar/daftpunktocat-guy.gif" width="50" align="right" alt="I Am Vir"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
 DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the INDIA. 
@@ -42,7 +42,7 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the IND
 
 <!-- markdownlint-enable MD033 -->
 
-![Metrics](github-metrics.svg)
+![Metrics](https://virnahar.github.io/virnahar/github-metrics.svg)
 
 ---
 
